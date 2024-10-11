@@ -1,0 +1,27 @@
+QA ROLE
+manual testing
+manual testing adalah salah satu metmode testing yang mana tester melakukan tes tanpa bantuan alat atau tools,diliat berdasarkan user interface ataupun input output dari suatu software. manual test berguna untuk mendeteksi bug yang tidak dapat dilihat oleh automation testing sehingga dilakukan terlebih dahulu.
+
+QA ROLE
+Automation testing
+Automation testing adalah teknik software testing,dengan membandingkan hasil yang diinginkan dengan hasil yang sebernya,dan biasanya dilakukan dengan menggunakan script atau testing tool.
+dalam automation testing pekerjaan dilakukan secara berulang-ulang sehingga tidak mungkin untuk dikerjakan secara manual.
+
+QA Role 
+Dalam dunia industri terdapat beberapa istilah baagi software QA yaitu
+-QA manual
+-QA tester
+-QA analyst
+-QA Automation
+-QA Engineer
+-software Development in test (SDET)
+-software Engineer in test (SEIT)
+-test engineer
+
+QA Job Scope
+-mengecek apakah produk sudah memenuhi kebutuhan
+-menilai risiko
+-merencanakan ide untuk meningkatkan kualitas produk
+-tes perencanaan
+-menganalisis hasil tes
+-melaporkan hasil ke manajemen (produk,developer,bisnis)
