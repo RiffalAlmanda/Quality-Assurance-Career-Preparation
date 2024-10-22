@@ -1,0 +1,30 @@
+Techinal Test
+-menyelesaikan masalah/case yang diberikan
+-membuat test casae,bug atau automation
+-kerjakan secepatnya dan rapih
+-jawab dengan lugas,singkat dan padat
+
+contoh tenchinal test
+-buatlah test case dari API testing reqresin
+-buatlah test case dari UI Myskill
+tips:
+-buat dokumentasi yang rapi,lengkap sesuai dengan format dari materi sebelumnya
+-definisikan test step dan expected result,usahakan mengandung positif dan negative case
+-test case covereage dan complexity
+
+contoh tenchinal test
+-buatlah bug reporting dari aplikasi my skill id
+tips:
+--buat dokumentasi yang rapi,lengkap sesuai dengan format dari materi sebelumnya
+-bug harus jelas dari judul dan step serta expected condition
+-sertakan severity dan bug tersebut
+-dokumentasikan dan sertakan link yang mudah di akses
+-cari bug yang mudah di-reproduce
+
+contoh tenchinal test
+-buatlah automation test dari web my skill id?
+tips:
+-gunakan bahasa yang kamu pahami(java,javascript,python,ruby)
+-uploud ke public repo dan buat readme/repo description dengan jelas (termasuk cara run test)
+-pastikan code test bisa dijalankan oleh orang lain
+-buatlah struktur file dan algoritme yag rapi dan mudah dipahami
