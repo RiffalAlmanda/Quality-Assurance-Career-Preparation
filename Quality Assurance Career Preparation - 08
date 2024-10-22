@@ -1,0 +1,18 @@
+Knowledge test
+-Dibutuhkan basic knowledge
+-Menanyakan tentang pengetahuan teori-teori QA
+-Study case masalah-masalah QA yang muncuk di lapangan
+-Bisa digunakan dengan tenchical test dan ada yang dipisah
+-Tertulis
+
+contoh knowledge test
+1)perbedaan non functional dan functional
+-Functional testing merupakan pengjuian yang lebih berfokus kepada hasil eksekusi dari proses atau flow setiap fitur di aploasi, apakah sudah bekerja dengan baik berdasarkan kebutuhan klien atau tidak. beberapa tipe functional testing di antaranya unit testing, integration testing ,system testing, dan acceptance testing
+
+-sedangkan non functional testing merupakan pengujian yang lebih berfokus pada estetika,wording beserta performa sebuah software dan lebih bertujuan kepada meningkatkn kualitas dari sebuah software setelah functional testing telah dilakukan dengan baik, di antara beberapa tipe functional testing adalah perfomance testing load testing,stress testing
+
+2. kenapa seorang software developer tidak baik untuk melakukan testing sotfware yang telah dia buat
+   -programmer yang melakukan pengujian sendiri terhadap program yang mereka kembangkan akan meminimalisir objektivitas dalam pengujian,programmer akan cenderung subjektif jika menguji program hasil kembangnya sendiri
+
+3. misalkan bug A adalah bug yag priority tinggi dan severity low sedangkan bug B dalah bug degan priority medium dan severity critical mana yang perlu di selesaikan dahulu?
+   -bug yang harus di selesaikan terlebih dahulu adalah bug B,yaitu bug yang memiliki priorty yang rendah tapi severity-nya tinggi. hal ini karena dengan berdasar kepada definisi dari bug severity,semakin tinggi level severity nya maka akan semakin besar dampak yang di berikan, dan umumnya sifat bug tersebut mengkibatkan blocking kepada kinerja software,jika bug yang severity-nya tinggi belum diperbaiki,maka bisa saja bug tersebut akan mengganggu proses fixing untuk bug A.sehingg bug B tetap harus di seleseikan terlebih dahulu walaupun bug A memiliki priority yang tinggi
