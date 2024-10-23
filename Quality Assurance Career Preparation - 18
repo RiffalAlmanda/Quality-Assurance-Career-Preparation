@@ -1,0 +1,16 @@
+Github
+-Github adalah platform dan layanan berbasis cloud untuk pengembangan perangkat lunak dan kontrol versi menggunakan git.
+Githubb memungkinkan developer untuk menyimpan dan memngelola kode mereka secara online.
+
+README
+file readme dalam proyek perangkat lunak adalah dokume penting yang berfungsi sebagai panduan untuk pengguuna dan kontributor. readme biasanya ditulis dalam format teks atau markdown dan ditempatkan di direktori utama repositori. ini memberikan informasi penting tentang proyek, bagaimana memnggunakannya dan apa yang proyek ini tawarkan.
+
+Tips membuat file readme
+-Judul proyek: nama proyek yang jelas dan deskriptif
+-Deskripsi proyek: penjelasan singkat tentang apa proyek ini dan apa yang proyek ini tawarkan
+-Instalasi: instruksi tentang cara menginstal atau mengonfigurasi proyek. ini menyangkut dependensi atau perangkat lunak yang diinstall.
+-Penggunaan: intruksi tentang cara menggunakan proyek.ini mencakup perintah atau langkah-langkah yang diperlukan untuk menjalankan apikasi atau menggunakan fitur-fitur tertentu.
+-Contoh: (Example) Contoh-contoh penggunaan proyek.dalam automation sisipkan screenshot dan video hasil test.
+
+Gitignore
+-gitignore adalah file yang berisi instruksi kepada git repository unutk tidak men-track files tertentu. in sangat berguna untuk meng-exlude files yang mungki tidak berguna atau tidak perlu di push ke repository
